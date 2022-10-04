@@ -26,9 +26,8 @@ margin: 7% auto;
     color:white;
     font-size:12px;
 }
-.verification span{
+.verification a{
     color:white;
-    border-bottom: 1px solid white;
     outline: none;
 }
 
